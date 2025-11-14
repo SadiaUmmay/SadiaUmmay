@@ -1,49 +1,16 @@
-<!-- Typing Animation with Gradient -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F0FF&center=true&width=700&lines=Hi+there!+I'm+Ummay+Jannat+Sadia;MERN+Stack+Developer;Full-Stack+Web+Developer;Building+Modern+Web+Apps)](https://git.io/typing-svg)
+<!-- Typing Animation (dark-friendly) -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00FFFF&width=700&lines=Hi+there!+I'm+Ummay+Jannat+Sadia;MERN+Stack+Developer;Building+Cool+Web+Apps)](https://git.io/typing-svg)
 
----
-
-<!-- Animated Gradient Divider -->
+<!-- Cartoon GIF Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sadiaummay/sadiaummay/main/assets/divider.gif" width="600">
+  <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="400px">
 </p>
 
 ---
 
 ## 💻 About Me
 I’m **Ummay Jannat Sadia**, a MERN Stack Developer passionate about building **fast, scalable, and interactive web apps**.  
-I focus on **clean UI/UX**, **modern tools**, and **developer best practices**.
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img alt="React" src="https://skillicons.dev/icons?i=react" height="40"/> 
-  <img alt="Node.js" src="https://skillicons.dev/icons?i=nodejs" height="40"/> 
-  <img alt="Express" src="https://skillicons.dev/icons?i=express" height="40"/>
-  <img alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb" height="40"/>
-  <img alt="JavaScript" src="https://skillicons.dev/icons?i=js" height="40"/>
-  <img alt="HTML" src="https://skillicons.dev/icons?i=html" height="40"/>
-  <img alt="CSS" src="https://skillicons.dev/icons?i=css" height="40"/>
-  <img alt="Tailwind" src="https://skillicons.dev/icons?i=tailwind" height="40"/>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadiaummay&show_icons=true&theme=radical&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiaummay&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiaummay&layout=compact&theme=radical" />
-</p>
+I focus on **clean UI/UX**, **best coding practices**, and **learning the latest technologies**.
 
 ---
 
@@ -59,14 +26,10 @@ I focus on **clean UI/UX**, **modern tools**, and **developer best practices**.
 </p>
 
 <p align="center">
-  <!-- Backend -->
+  <!-- Backend & Tools -->
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=0A192F" />
   <img alt="Express" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=0A192F" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0A192F" />
-</p>
-
-<p align="center">
-  <!-- Tools -->
   <img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0A192F" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=0A192F" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A192F" />
@@ -75,34 +38,28 @@ I focus on **clean UI/UX**, **modern tools**, and **developer best practices**.
 
 ---
 
-## ⚡ Animated Skill Progress Bars
+## 📊 GitHub Stats (Dark Theme)
 
-| Skill | Level |
-|-------|-------|
-| JavaScript | <img src="https://progress-bar.dev/95/?color=F7DF1E&suffix=%25" /> |
-| React.js | <img src="https://progress-bar.dev/90/?color=61DAFB&suffix=%25" /> |
-| Node.js | <img src="https://progress-bar.dev/85/?color=339933&suffix=%25" /> |
-| Express.js | <img src="https://progress-bar.dev/85/?color=000000&suffix=%25" /> |
-| MongoDB | <img src="https://progress-bar.dev/80/?color=47A248&suffix=%25" /> |
-| HTML5 | <img src="https://progress-bar.dev/95/?color=E34F26&suffix=%25" /> |
-| CSS3 | <img src="https://progress-bar.dev/90/?color=1572B6&suffix=%25" /> |
-| Tailwind | <img src="https://progress-bar.dev/90/?color=38B2AC&suffix=%25" /> |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sadiaummay&show_icons=true&theme=radical&count_private=true" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiaummay&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiaummay&layout=compact&theme=radical" />
+</p>
+
+---
 
 ## 🔗 Connect With Me
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A192F" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0A192F" /></a>
+  <a href="mailto:"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A192F" /></a>
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sadiaummay/sadiaummay/main/assets/animated-footer.gif" width="400">
-</p>
-
----
-
-> “Write code that is **clean, readable, and maintainable** — future you will thank you.”
