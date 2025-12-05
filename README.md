@@ -38,22 +38,6 @@ I focus on **clean UI/UX**, **best coding practices**, and **learning the latest
 
 ---
 
-## 📊 GitHub Stats (Dark Theme)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadiaummay&show_icons=true&theme=radical&count_private=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiaummay&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiaummay&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 🔗 Connect With Me
 
 <p align="center">
