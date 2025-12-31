@@ -2,8 +2,10 @@
 <!-- 🌟 Banner Image -->
 <!-- ===================== -->
 <p align="center">
-  <img src="https://i.ibb.co/4Z1ZQyC/github-banner.png" alt="GitHub Banner" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=36&pause=1000&color=0A66C2&center=true&width=800&lines=Sadia+Ummay+-+Frontend+Web+Developer;Exploring+Next.js+|+Building+Tourism+Website" />
 </p>
+
+
 
 <h1 align="center">Ummay Jannat Sadia</h1>
 <h3 align="center">Frontend Web Developer</h3>
@@ -63,17 +65,13 @@ My goal is to create meaningful digital experiences through efficient and elegan
 ## 📊 GitHub Stats
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sadiaummay&show_icons=true&theme=tokyonight"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiaummay&theme=tokyonight"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiaummay&layout=compact&theme=tokyonight"/>
-</p>
+
 
 
 ---
