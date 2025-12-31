@@ -5,7 +5,7 @@
   <img src="https://i.ibb.co/4Z1ZQyC/github-banner.png" alt="GitHub Banner" />
 </p>
 
-<h1 align="center">Sadia Ummay</h1>
+<h1 align="center">Ummay Jannat Sadia</h1>
 <h3 align="center">Frontend Web Developer</h3>
 
 ---
@@ -62,17 +62,19 @@ My goal is to create meaningful digital experiences through efficient and elegan
 
 ## 📊 GitHub Stats
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SadiaUmmay&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sadiaummay&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SadiaUmmay&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sadiaummay&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SadiaUmmay&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sadiaummay&layout=compact&theme=tokyonight"/>
 </p>
+
 
 ---
 
